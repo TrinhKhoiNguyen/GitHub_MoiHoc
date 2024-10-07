@@ -5,3 +5,8 @@ print("Ket qua cua bai toan tren la: ",ketQua)
 
 
 print("Tui gion do!!!")
+
+
+
+
+print("HAHHAHHAHAHHAHHQIIQIIQIQIIQI")
